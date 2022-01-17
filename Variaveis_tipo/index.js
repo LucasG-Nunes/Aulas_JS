@@ -103,7 +103,7 @@ obj.name = "julia"; // adicionando a key name com seu value julia
 
 obj.age = "20" // adicionando a key age com seu value 20
 
-Object.values(obj) // para ver os valores do obj
+object.values(obj) // para ver os valores do obj
 
 object.keys(obj) // para ver as chaves(keys)
 
